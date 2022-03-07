@@ -1,6 +1,4 @@
-## Olá! Eu sou o Keithi 👋
 
-Apaixonado por tecnologia, anime e games 🎮
 <div align="center">
   <a href="https://github.com/keithikun">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=keithikun&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
